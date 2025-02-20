@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs: arithmetic overflow. The `bug.cob` file contains a program that may experience an overflow if a numeric field exceeds its defined size.  The `bugSolution.cob` provides a corrected version with better error handling.
